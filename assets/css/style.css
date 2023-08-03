@@ -45,3 +45,7 @@ button {
 button:hover {
   background: var(--primary-color-darker);
 }
+
+.pausado{
+  color: red;
+}
